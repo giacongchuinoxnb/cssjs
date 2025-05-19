@@ -204,8 +204,8 @@
 .form-hasBg {
 	padding-top: 50px;
 	padding-bottom: 70px;
-	background: #0e244c;
-	background: radial-gradient(#0e244c, #F6A912);
+	background: #ffc657;
+	background: radial-gradient(#ffc657, #F6A912);
 	position: relative;
 	text-align: center;
 	color: #fff;
