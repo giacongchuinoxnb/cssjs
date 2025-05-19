@@ -140,7 +140,7 @@
 	cursor: pointer;
 }
 .thanhgform_wrapper .gform_footer input[type="submit"]:hover {
-	background: #ffa430 none repeat scroll 0 0;
+	background: #4f4e4d none repeat scroll 0 0;
 }
 .thanhgform_wrapper .thanhtop_label input.medium, .thanhgform_wrapper .thanhtop_label select.medium {
 	background-color: #fff;
