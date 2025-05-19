@@ -120,7 +120,7 @@
 	margin-top: 0;
 }
 .thanhgform_wrapper .gform_footer input[type="submit"] {
-	background: #3d3d3d none no-repeat scroll 0 0;
+	background: #3d3d3d;
 	border: medium none;
 	border-radius: 3px;
 	color: #fff;
@@ -205,7 +205,7 @@
 	padding-top: 50px;
 	padding-bottom: 70px;
 	background: #0e244c;
-	background: radial-gradient(#F6A912, #c48200);
+	background: radial-gradient(#c48200, #F6A912);
 	position: relative;
 	text-align: center;
 	color: #fff;
